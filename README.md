@@ -116,7 +116,12 @@ Usage on Docker
 
       `docker run -p 8080:8080 userapi`
 
+Dcumentation
+----------
 
+You may access the Dcumentation of RESTFUL API in this URL via OPENAPI and spring docs
+
+http://localhost:8080/swagger-ui/index.html
 
 Contact me
 ----------
