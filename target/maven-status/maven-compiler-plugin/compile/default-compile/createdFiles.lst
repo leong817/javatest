@@ -1,0 +1,9 @@
+com\wilson\user\service\ValidationService.class
+com\wilson\user\model\EmailRequest.class
+com\wilson\user\service\UserRecordService.class
+com\wilson\user\exception\ResourceNotFoundException.class
+com\wilson\user\repository\UserRecordRepository.class
+com\wilson\user\model\UserRecord.class
+com\wilson\user\service\UserRecordServiceImpl.class
+com\wilson\user\UserApplication.class
+com\wilson\user\controller\UserRecordController.class

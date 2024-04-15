@@ -1,0 +1,9 @@
+com\wilson\user\model\UserRecordTest.class
+com\wilson\user\service\UserRecordServiceImplTest$1.class
+com\wilson\user\UserRecordApplicationTests.class
+com\wilson\user\controller\UserRecordControllerTest.class
+com\wilson\user\test\ResourceNotFoundExceptionTest.class
+com\wilson\user\service\ValidationServiceTest.class
+com\wilson\user\service\UserRecordServiceTest.class
+com\wilson\user\service\UserRecordServiceImplTest.class
+com\wilson\user\repository\UserRecordRepositoryTest.class
